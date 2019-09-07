@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{202:function(e,n,a){"use strict";a.r(n);var t=a(0),i=a.n(t),l=a(199),r=a(200);n.default=function(){return i.a.createElement(l.a,null,i.a.createElement(r.a,{title:"Home"}),i.a.createElement("h1",null,"Yeh hai meri shadi"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-ec23fa7ddca6b70077a7.js.map
