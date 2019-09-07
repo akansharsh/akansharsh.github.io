@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{202:function(e,a,n){"use strict";n.r(a);var t=n(0),c=n.n(t),r=n(198),s=n(199);a.default=function(){return c.a.createElement(r.a,null,c.a.createElement(s.a,{title:"AkansHarsh"}),c.a.createElement("div",{className:"bg"}))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-0fad3568a03aa8f0e5d0.js.map
